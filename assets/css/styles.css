@@ -1,0 +1,28 @@
+a:hover {
+  text-decoration: underline #009E60 dotted;
+  color: #009e60;
+}
+
+a {
+  text-underline-offset: 2px;
+  color: #009e60;
+  text-decoration: none;
+}
+
+.container {
+  width: 75%;
+}
+
+h4 {
+  padding-top: 20px;
+}
+
+a.active {
+  text-decoration: underline #009E60 dotted;
+  color: #009e60;
+}
+
+.icon:hover {
+  color: #009e60;
+}
+
